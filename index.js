@@ -1,4 +1,4 @@
-const babel = require('babel-core');
+const babel = require('@babel/core');
 const defaultConfig = {
   exclude : [/node_modules|coverage/],
   presets : [
